@@ -1,2 +1,10 @@
 moviepy
 pytube
+youtube_dl
+wget
+progressbar
+# facebook
+urllib3
+facebook-sdk
+spotdl
+insta-scrape
